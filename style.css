@@ -61,6 +61,7 @@ html {
 body {
   background-image: url(./images/pattern-background-mobile.svg);
   background-repeat: no-repeat;
+  background-size: 100%;
   min-height: 100vh;
   font-family: var(--ff-base);
   font-weight: 500;
