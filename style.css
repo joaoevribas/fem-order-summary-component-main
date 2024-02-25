@@ -120,6 +120,7 @@ main {
 }
 
 .card-order--billing {
+  width: 100%;
   background-color: var(--clr-neutral-very-pale-blue);
   display: flex;
   align-items: center;
@@ -148,7 +149,7 @@ main {
   color: var(--clr-primary-bright-blue);
   font-weight: 700;
   font-size: 1.3rem;
-  margin-left: 3rem;
+  margin-left: auto;
 }
 
 .card-order--change:active {
@@ -211,6 +212,5 @@ main {
 
   .card-order--change {
     font-size: 1.4rem;
-    margin-left: 10rem;
   }
 }
